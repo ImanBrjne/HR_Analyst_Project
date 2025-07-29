@@ -1,18 +1,18 @@
-# 🚗 Sales Analysis - Salifort Motors  
-**Python | Pandas | Matplotlib | Data Visualization**
+# 🚗 HR Analysis - Salifort Motors  
+**Python | Pandas | Matplotlib | Mchine Learning**
 
-A data analysis project for a fictional car dealership company (Salifort Motors), analyzing sales and customer behavior.
+A data analysis project for a fictional car dealership company (Salifort Motors), analyzing and predicting potential departures and proactive measures to address contributing factors and improve employee retention to save time and resources associated with recruiting and hiring new employees.
 
 ---
 
 ## 📌 Summary (English)
 
-This project analyzes the sales data of "Salifort Motors" using Python. The main steps included:
+This project analyzes the HR data of "Salifort Motors" using Python. The main steps included:
 
 - 📥 Data loading and cleaning with **Pandas**
 - 📊 Exploratory Data Analysis (EDA)
 - 📈 Visualization using **Matplotlib** & **Seaborn**
-- 🔍 Insights about customer preferences, car types, monthly trends, etc.
+- 🔍 Insights about employee retention and satisfaction.
 
 > All code is in `salifort_motors_analysis.ipynb`.
 
